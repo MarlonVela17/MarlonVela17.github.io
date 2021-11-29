@@ -6,19 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Mi página personal
 
 # Your name to show in the footer
-author: Some Person
-
+author: Marlon Vela
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Biografía: "aboutme"
+  Resumen:
+    - Tarea 1: "https://view.genial.ly/61a32b8a3825d60d51c9889f/presentation-ponencias"
+    
+  Autor: "https://www.facebook.com/profile.php?id=100006407447753"
 
 # --- Logo --- #
 
@@ -39,9 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "marlonfabricio17@hotmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  facebook: Marlon Vela
   github: daattali
   twitter: daattali
   patreon: DeanAttali
@@ -52,9 +51,9 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+#  instagram: marlon_vela17
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +5930983434841
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
