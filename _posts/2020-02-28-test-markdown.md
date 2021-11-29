@@ -20,7 +20,7 @@ Jugar Fútbol
 
 Música
 
-![Música](https://concepto.de/musica/){: .mx-auto.d-block :}
+![Música](https://concepto.de/musica/)
 
 Here's a code chunk:
 
