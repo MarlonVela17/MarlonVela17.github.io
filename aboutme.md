@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Así es mi vida
+subtitle: Lo que haces hoy puede mejorar todos tus mañanas.
 ---
+Mi nombre es Marlon Vela y mis cualidades son:
 
-My name is Inigo Montoya. I have the following qualities:
+- Respetuoso
+- Puntual
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Más información sobre mí
 
-What else do you need?
+### Mi Historia
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Les presento mi historia, [Mi Facebook](https://www.facebook.com/profile.php?id=100006407447753) 
+Gracias por su visita.
